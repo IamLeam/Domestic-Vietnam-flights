@@ -23,10 +23,11 @@ The primary goal is to provide users with a comprehensive tool to monitor and co
  ## Usage
  
  **1. Scraping Airline Prices**
+ 
   Run this line to start collecting data for a specific route on a single day:
-	
-		```python get_airprice_single_day.py {FROMCITYNAME} {TOCITYNAME} {DATE}```
+  
+  ```python get_airprice_single_day.py {FROMCITYNAME} {TOCITYNAME} {DATE}```
 
   Run this line to start collecting data for all airport in Vietnam in a range of days:
-	
-		```python get_airprice_range_of_days.py {FROMDATE} {TODATE}```
+  
+  ```python get_airprice_range_of_days.py {FROMDATE} {TODATE}```
