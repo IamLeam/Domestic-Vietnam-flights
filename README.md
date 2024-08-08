@@ -21,7 +21,7 @@ The primary goal is to provide users with a comprehensive tool to monitor and co
   - Displays historical data for price comparison.
 
  ## Usage
-  **1. Scraping Airline Prices**
+ 	**1. Scraping Airline Prices**
   Run this line to start collecting data for a specific route on a single day::
   ```python get_airprice_single_day.py {FROMCITYNAME} {TOCITYNAME} {DATE}```
 
